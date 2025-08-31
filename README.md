@@ -21,7 +21,6 @@ https://github.com/user-attachments/assets/46447c66-439f-40ca-9078-955d66c448c9
 - **Firebase Authentication** - Google Sign-in integration
 - **Local Database** - SQLite implementation using sqflite
 - **Multi-language Support** - Localization for German, Turkish, and English
-- **Offline First** - Complete functionality even without internet connection
 
 ### Key Libraries
 #### State Management & DI
