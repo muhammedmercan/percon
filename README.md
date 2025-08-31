@@ -2,6 +2,13 @@
 
 This case study aims to develop an mobile application using Flutter that enables users to track their travel plans to Germany, Austria, and Switzerland between 2025-2030. The application features Firebase authentication, processes sample JSON data to list travels, and includes functionalities such as adding to favorites, filtering, multi-language support, and an effective user interface.
 
+
+
+
+https://github.com/user-attachments/assets/46447c66-439f-40ca-9078-955d66c448c9
+
+
+
 ## Technologies and Libraries
 
 ### Architecture & Design Patterns
